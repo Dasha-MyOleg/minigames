@@ -1,0 +1,28 @@
+Generation 0:
+.....
+..x..
+.xx..
+..x..
+.....
+
+Generation 1:
+.....
+.xx..
+.xxx.
+.xx..
+.....
+
+Generation 2:
+.....
+.x.x.
+x..x.
+.x.x.
+.....
+
+Generation 3:
+.....
+..x.x
+xx.x.
+..x.x
+.....
+
