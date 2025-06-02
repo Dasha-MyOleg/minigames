@@ -1,0 +1,2 @@
+# minigames
+labs/minigames
